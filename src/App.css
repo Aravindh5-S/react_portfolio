@@ -1,0 +1,7 @@
+.app{
+    background:url('../images/bg.jpg');
+    background-position: center;
+    background-size: cover; 
+    position: relative;
+}
+
